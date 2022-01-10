@@ -102,3 +102,6 @@ java 里的 Factory Pattern, Builder Patter 还需要吗？
 - state 状态机
 
 
+
+
+
